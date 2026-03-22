@@ -26,6 +26,6 @@ Sou um desenvolvedor focado em construir soluções lógicas e eficientes utiliz
 ### 📫 Como me encontrar:
 - LinkedIn: [linkedin.com/in/felipe-de-la-vega-gonzalez-15a95243](https://www.linkedin.com/in/felipe-de-la-vega-gonzalez-15a95243)
 - Email: felipedelavega08@gmail.com
-- Instagram: [@dlv.gonzalezz](https://www.instagram.com/dlv.gonzalezz)
+- Instagram: [@dlv.gonzalezz](https://www.instagram.com/dlv.gonzalezzz)
 
 ---
