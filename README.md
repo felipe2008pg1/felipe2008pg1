@@ -14,6 +14,7 @@ Sou um desenvolvedor focado em construir soluções lógicas e eficientes utiliz
 ### 🚀 Principais Projetos:
 - [Sistema de Triagem Hospitalar] (https://github.com/felipe2008pg1/sistema-triagem-hospitalar): Lógica de priorização baseada em protocolos de urgência.
 - [Gestão de Inventário] (https://github.com/felipe2008pg1/Gerenciamento-de-invent-rio): Controle de estoque otimizado com foco em regras de negócio.
+- [Sistema Anti-Fraude] (https://github.com/felipe2008pg1/Sistema-Anti-Fraude-Crash): Sistema de autenticação com níveis de acesso (User/Dev), tratamento de exceções, validação de duplicatas e trava de segurança contra invasão. 
 
 ### 💻 Minha Stack Técnica:
 - Linguagens: Python (Foco em Back-end).
