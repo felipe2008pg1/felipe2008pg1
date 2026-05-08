@@ -2,7 +2,7 @@
 
 - Desenvolvedor Back-end Python | Estudante de Desenvolvimento de Sistemas.
 
-Sou um desenvolvedor focado em construir soluções lógicas e eficientes utilizando **Python**. Com um background sólido em rotinas administrativas e contábeis, trago uma visão de negócio apurada para o desenvolvimento de software, priorizando organização, automação de processos e integridade de dados.
+_Sou um desenvolvedor focado em construir soluções lógicas e eficientes utilizando **Python**. Com um background sólido em rotinas administrativas e contábeis, trago uma visão de negócio apurada para o desenvolvimento de software, priorizando organização, automação de processos e integridade de dados._
 
 ---
 
