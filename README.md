@@ -18,7 +18,7 @@ _Sou um desenvolvedor focado em construir soluções lógicas e eficientes utili
 
 ### 💻 Minha Stack Técnica:
 - Linguagens: Python (Foco em Back-end).
-- Dados: MySQL, FastAPI.
+- Dados: MySQL/SQLite, FastAPI.
 - Ferramentas: Git, GitHub, VS Code.
 - Business: Assistente de Administração e Contabilidade (Certificado IFRS).
 
