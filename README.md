@@ -1,3 +1,4 @@
+<img width="405" height="405" alt="clipart2791029" src="https://github.com/user-attachments/assets/5e3b9052-113a-4a93-b39a-8d6fc8949651" />
 # Olá, eu sou o Felipe Gonzalez 👋
 
 - Desenvolvedor Back-end Python | Estudante de Desenvolvimento de Sistemas.
