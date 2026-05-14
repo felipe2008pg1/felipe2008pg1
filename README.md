@@ -7,7 +7,7 @@ _Sou um desenvolvedor focado em construir soluções lógicas e eficientes utili
 ---
 
 ### 🛠️ No que estou trabalhando:
-- 🔭 **Atualmente:** Aprofundando conhecimentos em **JSON, APIs REST** e **Banco de Dados SQL (MySQL)**.
+- 🔭 **Atualmente:** Aprofundando conhecimentos em **JSON, APIs REST** e **Banco de Dados SQL (MySQL, SQLite)**.
 - 🌱 **Evoluindo em:** Lógica de Back-end, manipulação de dados com **BeautifulSoup** e automação de sistemas.
 - 🎯 **Objetivo:** Transição total para o mercado de tecnologia como Desenvolvedor Back-end.
 
