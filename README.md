@@ -1,30 +1,30 @@
-# Olá, eu sou o Felipe Gonzalez 👋
+# Hi, I'm Felipe Gonzalez 👋
 
-- Desenvolvedor Back-end Python | Estudante de Desenvolvimento de Sistemas.
+- Python Back-end Developer | Systems Development Student.
 
-_Sou um desenvolvedor focado em construir soluções lógicas e eficientes utilizando **Python**. Com um background sólido em rotinas administrativas e contábeis, trago uma visão de negócio apurada para o desenvolvimento de software, priorizando organização, automação de processos e integridade de dados._
-
----
-
-### 🛠️ No que estou trabalhando:
-- 🔭 **Atualmente:** Aprofundando conhecimentos em **JSON, APIs REST** e **Banco de Dados SQL (MySQL, SQLite)**.
-- 🌱 **Evoluindo em:** Lógica de Back-end, manipulação de dados com **BeautifulSoup** e automação de sistemas.
-- 🎯 **Objetivo:** Transição total para o mercado de tecnologia como Desenvolvedor Back-end.
-
-### 🚀 Principais Projetos:
-- [Sistema de Triagem Hospitalar] (https://github.com/felipe2008pg1/sistema-triagem-hospitalar): Lógica de priorização baseada em protocolos de urgência.
-- [Gestão de Inventário] (https://github.com/felipe2008pg1/Gerenciamento-de-inventario): Controle de estoque otimizado com foco em regras de negócio.
-- [Sistema de Login Anti-Fraude] (https://github.com/felipe2008pg1/Sistema-de-Login-e-Senha-com-Autenticacao): Sistema de autenticação com níveis de acesso (User/Dev), tratamento de exceções, validação de duplicatas e trava de segurança contra invasão. 
-
-### 💻 Minha Stack Técnica:
-- Linguagens: Python (Foco em Back-end).
-- Dados: MySQL/SQLite, Fast.
-- Ferramentas: Git, GitHub, VS Code.
-- Business: Assistente de Administração e Contabilidade (Certificado IFRS).
+_I am a developer focused on building logical and efficient solutions using **Python**. With a solid background in administrative and accounting routines, I bring a sharp business perspective to software development, prioritizing organization, process automation, and data integrity._
 
 ---
 
-### 📫 Como me encontrar:
+### 🛠️ What I'm working on:
+- 🔭 **Currently:** Deepening my knowledge in **JSON, REST APIs**, and **SQL Databases (MySQL, SQLite)**.
+- 🌱 **Evolving in:** Back-end logic, data manipulation with **BeautifulSoup**, and systems automation.
+- 🎯 **Objective:** Full transition into the tech market as a Back-end Developer.
+
+### 🚀 Main Projects:
+- [Sistema de Triagem Hospitalar] (https://github.com/felipe2008pg1/sistema-triagem-hospitalar): Prioritization logic based on urgency protocols.
+- [Gestão de Inventário] (https://github.com/felipe2008pg1/Gerenciamento-de-inventario): Optimized inventory control with a focus on business rules.
+- [Sistema de Login Anti-Fraude] (https://github.com/felipe2008pg1/Sistema-de-Login-e-Senha-com-Autenticacao): Authentication system with access levels (User/Dev), exception handling, duplicate validation, and a security lock against intrusions. 
+
+### 💻 My Technical Stack:
+- Languages: Python (Back-end Focus).
+- Data: MySQL/SQLite, Fast.
+- Tools: Git, GitHub, VS Code.
+- Business: Administrative and Accounting Assistant (IFRS Certified).
+
+---
+
+### 📫 How to find me:
 - LinkedIn: [linkedin.com/in/felipe-de-la-vega-gonzalez-15a95243](https://www.linkedin.com/in/felipe-de-la-vega-gonzalez-15a95243)
 - Email: felipedelavega08@gmail.com
 - Instagram: [@dlv.gonzalezz](https://www.instagram.com/dlv.gonzalezz)
