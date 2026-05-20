@@ -25,7 +25,7 @@ _I am a developer focused on building logical and efficient solutions using **Py
 ---
 
 ### 📫 How to find me:
-- LinkedIn: [linkedin.com/in/felipe-de-la-vega-gonzalez-15a95243](https://www.linkedin.com/in/felipe-de-la-vega-gonzalez-15a95243)
+- LinkedIn: [linkedin.com/in/felipe-de-la-vega-gonzalez-15a95243](https://www.linkedin.com/in/felipe-de-la-vega-dev/)
 - Email: felipedelavega08@gmail.com
 - Instagram: [@dlv.gonzalezz](https://www.instagram.com/dlv.gonzalezz)
 
