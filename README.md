@@ -2,7 +2,7 @@
 
 - Python Back-end Developer | Systems Development Student.
 
-_I am a developer focused on building logical and efficient solutions using **Python** and others with the help of JavaScript for the front end **(the base remains in Python)**. With a solid background in administrative and accounting routines, I bring a sharp business perspective to software development, prioritizing organization, process automation, and data integrity._
+_I am a student and developer focused on building logical and efficient solutions using **Python** and others with the help of JavaScript for the front end **(the base remains in Python)**. With a solid background in administrative and accounting routines, I bring a sharp business perspective to software development, prioritizing organization, process automation, and data integrity._
 
 ---
 
