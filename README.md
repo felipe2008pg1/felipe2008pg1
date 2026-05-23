@@ -22,7 +22,7 @@ _I am a student and developer focused on building logical and efficient solution
 ---
 
 ### 📫 How to find me:
-- LinkedIn: [linkedin.com/in/felipe-de-la-vega-gonzalez-15a95243](https://www.linkedin.com/in/felipe-de-la-vega-dev/)
+- LinkedIn: [https://www.linkedin.com/in/felipe-de-la-vega-dev/](https://www.linkedin.com/in/felipe-de-la-vega-dev/)
 - Email: felipedelavega08@gmail.com
 - Instagram: [@dlv.gonzalezz](https://www.instagram.com/dlv.gonzalezz)
 
