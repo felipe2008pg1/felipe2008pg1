@@ -11,10 +11,7 @@ _I am a student and developer focused on building logical and efficient solution
 - 🌱 **Evolving in:** Back-end logic, data manipulation with **BeautifulSoup**, and systems automation.
 - 🎯 **Objective:** Full transition into the tech market as a Back-end Developer.
 
-### 🚀 Main Projects:
-- [Sistema de Triagem Hospitalar] (https://github.com/felipe2008pg1/sistema-triagem-hospitalar): Prioritization logic based on urgency protocols.
-- [Gestão de Inventário] (https://github.com/felipe2008pg1/Gerenciamento-de-inventario): Optimized inventory control with a focus on business rules.
-- [Sistema de Login Anti-Fraude] (https://github.com/felipe2008pg1/Sistema-de-Login-e-Senha-com-Autenticacao): Authentication system with access levels (User/Dev), exception handling, duplicate validation, and a security lock against intrusions. 
+---
 
 ### 💻 My Technical Stack:
 - Languages: Python (Back-end Focus).
