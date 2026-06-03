@@ -1,29 +1,34 @@
 # Hi, I'm Felipe Gonzalez 👋
 
-- Python Back-end Developer | Systems Development Student.
+* Full Stack Python Developer | Systems Development Student.
 
-_I am a student and developer focused on building logical and efficient solutions using **Python** and others with the help of JavaScript for the front end **(the base remains in Python)**. With a solid background in administrative and accounting routines, I bring a sharp business perspective to software development, prioritizing organization, process automation, and data integrity._
+*I am a developer and student focused on building complete web solutions using **Python, HTML, CSS, and JavaScript**. I develop both back-end and front-end applications, combining programming logic, automation, and database management to create efficient, organized, and scalable systems. My background in administrative and accounting routines also gives me a strong business-oriented perspective when designing software solutions.*
 
 ---
 
 ### 🛠️ What I'm working on:
-- 🔭 **Currently:** Deepening my knowledge in **JSON, REST APIs**, and **SQL Databases (MySQL, SQLite)**.
-- 🌱 **Evolving in:** Back-end logic, data manipulation with **BeautifulSoup**, and systems automation.
-- 🎯 **Objective:** Full transition into the tech market as a Back-end Developer.
+
+* 🔭 **Currently:** Deepening my knowledge in **REST APIs, JSON, SQL Databases (MySQL, SQLite), and Full Stack Development**.
+* 🌱 **Evolving in:** Web application architecture, automation, data extraction with **BeautifulSoup**, and front-end development with **HTML, CSS, and JavaScript**.
+* 🎯 **Objective:** Building a professional career as a **Full Stack Python Developer**, creating scalable and efficient systems.
 
 ---
 
 ### 💻 My Technical Stack:
-- Languages: Python (Back-end Focus).
-- Data: MySQL/SQLite, Fast.
-- Tools: Git, GitHub, VS Code.
-- Business: Administrative and Accounting Assistant (IFRS Certified).
+
+* Languages: Python, JavaScript, HTML5, CSS3.
+* Back-end: Flask, REST APIs.
+* Databases: MySQL, SQLite.
+* Data & Automation: Pandas, BeautifulSoup.
+* Tools: Git, GitHub, VS Code.
+* Business: Administrative and Accounting Assistant (IFRS Certified).
 
 ---
 
 ### 📫 How to find me:
-- LinkedIn: [https://www.linkedin.com/in/felipe-de-la-vega-dev/](https://www.linkedin.com/in/felipe-de-la-vega-dev/)
-- Email: felipedelavega08@gmail.com
-- Instagram: [@dlv.gonzalezz](https://www.instagram.com/dlv.gonzalezz)
+
+* LinkedIn: https://www.linkedin.com/in/felipe-de-la-vega-dev/
+* Email: [felipedelavega08@gmail.com](mailto:felipedelavega08@gmail.com)
+* Instagram: [@dlv.gonzalezz](https://www.instagram.com/dlv.gonzalezz)
 
 ---
