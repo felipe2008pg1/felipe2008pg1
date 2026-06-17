@@ -18,7 +18,7 @@
 
 * Languages: Python, JavaScript, HTML5, CSS3.
 * Back-end: Flask, REST APIs.
-* Databases: MySQL, SQLite.
+* Databases: MySQL, SQLite, PostgreSQL.
 * Data & Automation: Pandas, BeautifulSoup.
 * Tools: Git, GitHub, VS Code.
 * Business: Administrative and Accounting Assistant (IFRS Certified).
