@@ -1,3 +1,5 @@
+## This account are just available in English. 🇺🇸 | 🇬🇧
+
 # Hi, I'm Felipe Gonzalez 👋
 
 * Full Stack Python Developer | Systems Development Student.
