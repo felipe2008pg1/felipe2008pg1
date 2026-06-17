@@ -1,4 +1,4 @@
-## This account are just available in English. 🇺🇸 | 🇬🇧
+> ## This account are just available in English. 🇺🇸 | 🇬🇧
 
 # Hi, I'm Felipe Gonzalez 👋
 
