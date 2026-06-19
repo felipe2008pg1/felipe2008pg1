@@ -1,4 +1,4 @@
-> This profile are just available in language English. 🇺🇸 | 🇬🇧
+> This profile are just available in English. 🇺🇸 | 🇬🇧
 
 # Hi, I'm Felipe Gonzalez 👋
 
