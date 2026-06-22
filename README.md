@@ -2,7 +2,7 @@
 
 # Hi, I'm Felipe Gonzalez 👋
 
-* Full Stack Python Developer | Systems Development Student.
+* Full Stack Python Developer Júnior | Systems Development Student.
 
 *I am a developer and student focused on building complete web solutions using **Python, HTML, CSS, and JavaScript**. I develop both back-end and front-end applications, combining programming logic, automation, and database management to create efficient, organized, and scalable systems. My background in administrative and accounting routines also gives me a strong business-oriented perspective when designing software solutions.*
 
