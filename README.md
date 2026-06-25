@@ -60,12 +60,3 @@
 
 ---
 
-</a>
-  <a href="mailto:felipedelavega08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D52B1E?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.instagram.com/dlv.gonzalezz/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FD5DA8?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=E0E6FF" alt="Discord: felipe2008pg1"/>
-</p>
