@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-D52B1E?style=for-the-badge&labelColor=0033A0" alt="Open to Work"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ECC71?style=for-the-badge&labelColor=0033A0" alt="Open to Work"/>
 </p>
 
 ---
