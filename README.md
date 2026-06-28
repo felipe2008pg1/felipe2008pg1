@@ -60,3 +60,10 @@
 
 ---
 
+---
+
+### 🚀 GitHub Contribution Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/felipe2008pg1/felipe2008pg1/main/gh-space-shooter.gif" alt="GitHub Space Shooter Game" width="100%"/>
+</p>
