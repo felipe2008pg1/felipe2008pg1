@@ -52,11 +52,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipe2008pg1&show_icons=true&title_color=0033A0&text_color=FFFFFF&icon_color=D52B1E&bg_color=0D1117&border_color=D52B1E&hide_border=false" alt="Felipe's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe2008pg1&layout=compact&title_color=0033A0&text_color=FFFFFF&icon_color=D52B1E&bg_color=0D1117&border_color=D52B1E&hide_border=false&langs_count=8" alt="Top Languages" height="180"/>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipe2008pg1&theme=dark&background=0D1117&border=D52B1E&ring=0033A0&fire=D52B1E&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-sigma-pink.vercel.app/api?username=felipe2008pg1&show_icons=true&title_color=0033A0&text_color=FFFFFF&icon_color=D52B1E&bg_color=0D1117&border_color=D52B1E&hide_border=false" alt="Felipe's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=felipe2008pg1&layout=compact&title_color=0033A0&text_color=FFFFFF&icon_color=D52B1E&bg_color=0D1117&border_color=D52B1E&hide_border=false&langs_count=8" alt="Top Languages" height="180"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=felipe2008pg1&theme=dark&background=0D1117&border=D52B1E&ring=0033A0&fire=D52B1E&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+</p>
+
 
 ---
 
