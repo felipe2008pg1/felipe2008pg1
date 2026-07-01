@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Render%20%7C%20Vercel-000000?style=for-the-badge"/>
 </p>
 
 > 💼 **Business background:** Administrative and Accounting Assistant (IFRS Certified)
