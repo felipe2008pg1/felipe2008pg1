@@ -2,8 +2,8 @@ name: Generate GitHub Trophy
 
 on:
   schedule:
-    - cron: "0 0 * * *" # atualiza uma vez por dia
-  workflow_dispatch: {} # permite rodar manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
 
 jobs:
   build:
@@ -14,11 +14,10 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate trophy.svg
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        uses: ryo-ma/github-profile-trophy@v1
         with:
           username: felipe2008pg1
-          file: trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          output: trophy.svg
 
       - name: Commit and push
         run: |
