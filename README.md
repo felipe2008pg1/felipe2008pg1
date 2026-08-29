@@ -20,10 +20,28 @@
 
 ### 🛠️ What I'm working on
 
-- 🔭 **Currently:** Deepening my knowledge in **REST APIs, JSON, SQL Databases (MySQL, SQLite and PostgreSQL), and Full Stack Development**.
-- 🌱 **Evolving in:** Web application architecture, automation, data extraction with **BeautifulSoup**, and front-end development with **HTML, CSS, and JavaScript**.
-- 🎯 **Objective:** Building a professional career as a **Full Stack Python Developer**, creating scalable and efficient systems.
-- 💬 **Ask me about:** Python, Flask, REST APIs, SQL databases, and web automation.
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🔭 Currently</h3>
+      Deepening my knowledge in <b>REST APIs, JSON, SQL Databases (MySQL, SQLite and PostgreSQL), and Full Stack Development</b>.
+    </td>
+    <td align="center" width="50%">
+      <h3>🌱 Evolving in</h3>
+      Web application architecture, automation, data extraction with <b>BeautifulSoup</b>, and front-end development with <b>HTML, CSS, and JavaScript</b>.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎯 Objective</h3>
+      Building a professional career as a <b>Full Stack Python Developer</b>, creating scalable and efficient systems.
+    </td>
+    <td align="center" width="50%">
+      <h3>💬 Ask me about</h3>
+      Python, Flask, REST APIs, SQL databases, and web automation.
+    </td>
+  </tr>
+</table>
 
 ---
 
