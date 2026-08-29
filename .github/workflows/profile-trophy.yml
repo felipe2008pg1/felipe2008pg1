@@ -2,8 +2,8 @@ name: Generate GitHub Trophy
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
+    - cron: "0 0 * * *" # atualiza uma vez por dia
+  workflow_dispatch: {} # permite rodar manualmente
 
 jobs:
   build:
@@ -17,7 +17,8 @@ jobs:
         uses: ryo-ma/github-profile-trophy@v1.0
         with:
           username: felipe2008pg1
-          output: trophy.svg
+          output_path: trophy.svg
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Commit and push
         run: |
