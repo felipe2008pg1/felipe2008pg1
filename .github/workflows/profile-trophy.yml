@@ -17,7 +17,7 @@ jobs:
         uses: ryo-ma/github-profile-trophy@v1.0
         with:
           username: felipe2008pg1
-          output_path: trophy.svg
+          output_path: ./trophy.svg
           token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Commit and push
