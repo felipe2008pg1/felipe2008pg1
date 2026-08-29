@@ -2,8 +2,8 @@ name: Generate GitHub Trophy
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
+    - cron: "0 0 * * *" # atualiza uma vez por dia
+  workflow_dispatch: {} # permite rodar manualmente
 
 jobs:
   build:
@@ -14,9 +14,11 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate trophy.svg
-        run: |
-          curl -sf "https://github-profile-trophy.vercel.app/?username=felipe2008pg1&theme=onedark&no-frame=true&column=6" -o trophy.svg
-          test -s trophy.svg
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: felipe2008pg1
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push
         run: |
