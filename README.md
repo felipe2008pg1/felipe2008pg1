@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0033A0,100:D52B1E&height=220&section=header&text=Felipe%20Gonzalez&fontSize=54&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Python%20Developer&descSize=20&descAlignY=58" width="100%" alt="Felipe Gonzalez — Full Stack Python Developer"/>
+
 <p align="center">
   <img src="https://media1.tenor.com/m/Lde__inmPkIAAAAd/united-kingdom-uk.gif" width="50" height="35" alt="UK flag"/>
   &nbsp;<i><b>This profile and all repositories are maintained in English</b></i>&nbsp;
@@ -10,10 +12,20 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ECC71?style=for-the-badge&labelColor=0033A0" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-4A7BA7?style=for-the-badge&labelColor=1F2A44" alt="Focus: Full Stack"/>
+  <img src="https://img.shields.io/badge/Languages-PT%20%2F%20EN-5F9E8F?style=for-the-badge&labelColor=1F2A44" alt="Bilingual"/>
 </p>
 
 <p align="center">
-  Full Stack Python Developer focused on <b>backend development, REST APIs, databases, and complete web applications</b>. I build efficient, maintainable, database-driven systems using Python, FastAPI/Flask, SQL, and JavaScript — with a business and accounting background that shapes how I think about the systems I build.
+  Full Stack Python Developer focused on <b>backend development, REST APIs, databases, and complete web applications</b>.<br/>
+  I build efficient, maintainable, database-driven systems with <b>Python, FastAPI/Flask, SQL, and JavaScript</b> —<br/>
+  with a business and accounting background that shapes how I think about the systems I build.
+</p>
+
+<p align="center">
+  <a href="https://portfoliofelipe2008pg1.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-0033A0?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOS41Ii8%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iMTIiIHJ4PSI0LjIiIHJ5PSI5LjUiLz48cGF0aCBkPSJNMi41IDEyaDE5TTQgN2gxNk00IDE3aDE2Ii8%2BPC9zdmc%2B" alt="Live portfolio"/></a>
+  <a href="https://www.linkedin.com/in/felipe-de-la-vega-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAweiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"/></a>
+  <a href="https://github.com/felipe2008pg1?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Repositories"/></a>
 </p>
 
 <br/>
@@ -47,58 +59,139 @@
 
 ## 💻 Technical Stack
 
-**Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS3"/>
-</p>
-
-**Backend**
-<p align="left">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF" alt="Flask"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-FF5733?style=for-the-badge&logo=fastapi&logoColor=FFFFFF" alt="REST APIs"/>
-</p>
-
-**Databases**
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" alt="PostgreSQL"/>
-</p>
-
-**Data & Automation**
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=FFD43B" alt="BeautifulSoup"/>
-</p>
-
-**Tools & Platforms**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logoColor=FFFFFF&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM%2FrhtAAAJPElEQVR42r2Ze4wddRXHP%2Bf3m7mvvbvbBy%2BhLesjRVsKglVoMUgtJMY0qcHsovKUCKJQeRTCq%2BT2QkMIQgVcqBoaDZZgt0KBlqBQ01YpBQEx0IKp4VFEoAJld7v37t2Z%2Bf2Of8zu3d2y225Dyy%2F5Ze7NnbnznXO%2B53seA5%2FGuvD5ECC47omZ%2BVv%2B%2FvSkB97dPu3PtWUtHe8fVT%2BnQy2qZvdL5YCDK60PKM9J7LVPzPWZ3EqNk4lhIHz%2B5G%2BgcV%2BXd%2B4B77T9tfmNWwHqIEX8gQfYD84seqLNB7n7cT6gt%2BKsqDly1mwf5gvW5LO4am%2Bsqiu9xne8Nm%2FcC0OA6oECKHSooU2cuWHdRT7ILSOJlCRW4sRYgZZZswjCUL16L2KtKTbge6teVR5ySXLH6%2FObNh0gC6rQusqwqs2ZReuu99mGJfRVPd4JihBHWKBl1myCTAZVBVRV1YsYaxqKaBShcbzax7Wf7V%2BApVLKn3LZy6K%2F%2FEJzjZfR252gahEE7yGKsaK0nHjSEIDDHtChSDC%2B0cQfdD1l9h84NZTLKbEXrbtPs42XUelMwYGgCgowcByVHRYRE3fuchLYrwfDfutQy1aUchpBY16tHZayOEqPFiRpWKm54jyqHyWIGfz%2F1JPpURRVTb%2Fq6EAVCOq8UUDEpUA7LG1tbkzgBs694tGDxBUe0UxhNtXOGCQcfvf%2Bzynn%2BgGzF2uCSXkjiojau%2F71zfD2l4%2Blrc2hKnVO7UlG2tpc9urHWyRX3KA2P5tqV4JKOAyADrWgT803xviUAXLLhO8v13zxPPqqziTRjf7yo2%2Bsu71N3GgaF1792Iw4yK%2FFBlOoVRKMCUaJbnDe4bEWz5Ffm5UE2Vyg3u%2FFgu1bikw4Y7U2NJ9HpTPBxcY3jC%2FLna%2BuLZTWH0abOErrh9%2F0wl%2BHlOckwcK1J8c2vwGRKdQqDjFBnWe7W877hGyDxbv3QvXfC8LsO5gQvOrI1k63sHTLOhqa51LtSkCCfoI48s2BxL1vmqhyvlt43HpaOyzTtiqcYijPSeyVa%2Be7MP8HIEcSOUTsyIZTRcSTb7RS69mou94%2F1yw7a%2FvnVnXtkDB3iMZ9ioiM7uJfblNckuCdRUwqByKgmhBmA1S9ieNr%2FMLpP69ftfDRHxIWlqNOcM5jjOkPzyEBIaDqsIElyCBx7TZ9vesaVrW5Kfe8ND5zyJGvSJA9bG8AA6K%2BG8gVbyKqeryjDhICoppHRHxD862ydOuJ2tX5E%2FPe9jN9UFhK3OdBFWPMYLTqUL1NyDYEuGSnjSo%2Fdrd%2B%2B4%2BU1FAqmXwmTNwYFcywcMYS09t9CWHBIAF49YPhLwav0NPpNFs8nWLjFt%2FQuJSuD5S4T1Bv8B50YNej1JFvCiSJNmei7lkpuPUBLGZAzPfEu6HbUFof%2BCuPvZtK51nY0GEDg%2FdDQQqIpdrtCDIHc3iL0jRe6OsVogicIwVJ6lKxQqZgpVZt19c7T4mWnr5tIOJZvFj3NUGlF5Y04Gq5n5tf%2BJB8cRVhtpi61wzVQUscpXw5bDLkC7DjbXAJZHKAT8g1BKjvNlHPxf62eSvq%2Bbk8J%2Fl47PSH416FGqAsKcjrvvIn%2BnadhvcfkC0avNdh7kDSjJMk0DQRJk%2BFIITeiidbCIhqL1LbdZK%2Fbd6K1KUqdZfuvvxYXTywypJQWh9wzcxn6ItPIIlfJcylnBxJ35MEMlmYPNUz%2FhCRne%2B1s%2FO52dz13S11lyL6SWuQkVPZtqfg9S1Qq4Kx%2FRzT4RtS%2FqnCoUfC1OOh5ZR9KBv31YIDT73gwRNpOuJZjP0Sb2xVKrsMNgQ%2FQoZAQDFEvar5pksoHLqZG5%2BfkfK638X7xYKD4L5FmH8SGxyEdx4bGP77b%2BjeCTYA70dJS2Lo2ZkQZr5MvriJm%2F95dt3FJTUjJ5ixbTMI7uEzCQtrUC0Sxx4TGIIwBfbOa%2FDR%2FxxhTlKdG9HlAb09Dpc0kmu8j1tebmfBnVnK4j%2BWy%2FfBxakLFjx8MblCO3FN8V4RMekJHrxTktgj1tI84X0mHHEwLk5BjpSi0lLKU2i21CrPUOs5l%2FIJqRaywVMu%2B6PufbUxzn9mm4R7T3WGSx9eRLbQTl%2FN4zx1cKKgeIyF4gSL8CDbXjyaJLqCTIMgVtEhWWeYsGOpdCaE2RMpNG1myYutqcsXD%2FYtY7bg5Y%2BlxYJ6i%2FTrnJAWC0E2QNXhk6u5a%2F7t9ce68YXzyeTvxTvBJx4RM0ol47ChJchAX%2BV2nnz4GjaWkyn3vDQ%2BaJzyimT2bkFhweonyTaeSm1XgkgAqiiOXDEgid4grp7P3a0bdi%2B3KP9jPpnsGMotr4jx5Jssle6%2F0vXhOeb2udun%2FP6jHWZM5dZPO4oEuRVkG%2BbT25UgYsk1ClHvGnp2XcDyH%2BwYFN4hs5bfzIwpPXsy2cbVGDOBqOoQY0fXPZ%2BQaQiofPRe2Ndz%2BaQZM2%2BVMDdZo9peAA7ky53HLSdTOI%2B4luB9mfbvLKl3bKvaRi35KW0%2BhkzjWoLMZPp6BoreUUp%2B51C1xkVM%2FsIXExtm05Jf9tSTlEr1fpZL15xCVNvJstaX0H6RlT2kqwGQ12%2F8LPkJawjz06l1jwJS04wU9arxMZOPOlZsGI7QuI883ZJ6w7onq43YdvY3VVesP4hxEx8hV5xNtStGCEcGWMP4mMlTZ2DDzF4BmsGrRWntsJTUjBkcQJs4WjssS%2Bd8wNtvnka1%2BzEKzSHOJyOnB%2FrjcGxKs%2F9mMyU1lMXT2mqZdu1vKYw7m0pngqjtb3JSC8Y1jIuZdNQxe7agqkPE7r%2FZTFk8pZJh2jSlfPw5VDrvIN8coNalc47dJgmjNfbeO7z3tqnZqvq%2F2f063dq4Udm4AVqnW5ad%2BjgnnZuQLZ5K0p8aUcE5RB1NBx2KsXagrFbUe0SMKYwzCOL7qquTKPnRARpgqtCBoU0cNzx3EUFhGUktHWAmkTEaM2nqMdgwVPXeY6w1%2BSZ8rccjPOSj6I63Lpi4afSC9ZMPWLU%2Bkbjpq7%2Bi1nMGEjqCjEG9w6uqqlMTiBTHWxUTu97KspernfDmuY2tb10wcRMlNajKpzZE56pNc8kVVpIkEwMSJk2fiSZ9XerdA5ok7f%2B5cOLgEH1xP6c%2FtdX%2FGoKrnpqZWfzy04e0v7u95Xc9yw6%2F5%2B3hryFGKG7%2FDwPndIf7H3CBAAAAAElFTkSuQmCC" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Render%20%7C%20Vercel-000000?style=for-the-badge" alt="Render and Vercel"/>
-</p>
-
-**AI-Assisted Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/Claude%20Code-FF6B00?style=for-the-badge&logo=anthropic&logoColor=FFFFFF" alt="Claude Code"/>
-  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logoColor=FFFFFF&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM%2FrhtAAADQklEQVR42u2YOWgVURSGv%2FNekLjERgLiioJooWChqKAIIjYWFpaCGGKlgmgRtbFTEMHSwgW1tLXQQhRLCzfQKoWx0GgELVQSk7w3v825cnOZecu8F2ORA8Md7vrfs%2FznzMC8zMvcinW6gaRKsk9mZprzm0mqOLi8saokmzMNSqqaWd3f1wEbgV5gFHhnZuM%2B1pMsrc%2B6diVVvd0l6ZGkCc2U95Iu5ICbsX5WNBg0J2kAuAmEwzJAQOyPT4EHwBrgN%2FAWeGxm3yRZ1zUZ%2FErSPtdUJmna21jqkmrKly%2BSzkY%2BbF0F5%2B%2Fv%2FLAiEDHQ6eiJ598uY%2B5mPmeSjkWHl5FM0qS%2Fn%2BkYZATugKRXHYKLNVuX9F3SsnD5TsANJJsH89Y6ABnWHimgo7%2FS0yRatwO3oigN5gitSnKp%2FNnSbGKlwQYAl31O5qDk79eAuw4u6yBJ9LZt3pC%2BJK2PaCSL6ORnZP5h72%2FXL6e9PdXMxJUG5L3JXSDzPgPqwBLgos857%2F3tkm4495CkBUDWsibDbSQddu3UEprIJP2QtNrnPWmRF4sC5VwzLRZF7%2B4CWgkb33du3Or5OCtJN58kLSqimzwTB6d%2FA4wlfbGs9PWfganI1Jm7Ql6bnm3AiiiaK00BmpmcZn4B132OElqpA6e95LoELPU%2B8%2FnVgjZPGXKQrfOgO20FuArsB%2FYkXHjDzF5K2gkM%2BFgAMOqat4S2%2BoFVOdxpwGSZTBKC5aT7zJS345L6fOx5QhtjHpW5%2B%2Fm4Euqa8qKXvAq9pwlIAzZENxWwADghaSmwIyHxPmBQ0kjkGmHdWh8PfTU%2F%2F5mZjUiqmFlWRoNXotovrzopm4tDFG9rVNW0wj1vI6L%2B%2B22R5GRyxvKkGmkcYNDMXsTfOO1oMBSo%2FU7M9S6VWvLS7UA368Eh33iyA7MGcEejy3dWUXumCCDvJD4Ul%2FP1FtPa63TfbpT8FlU4Q5K%2BNgCR5QRR%2FGG1t11w1g5QzzL9Tt6bgYXAR%2BAgsC8i5SzKKjilHDeze6UCol2fLCDhC5I%2BJBqckPTQM04pn7MyJk%2FpxcxqPrbYE%2F9yYAIYNrOR9HfJXPxIsgbaLfzJ9E9%2Bv%2BVoNwajttLXvMzLfyh%2FAFFdMckvFJR3AAAAAElFTkSuQmCC" alt="Codex"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="140"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" alt="SQL"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS3"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=FFFFFF" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF" alt="Flask"/>
+      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=FFFFFF" alt="SQLAlchemy"/>
+      <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=FFFFFF" alt="Pydantic"/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF" alt="JWT"/>
+      <img src="https://img.shields.io/badge/REST%20APIs-0033A0?style=for-the-badge&logo=swagger&logoColor=FFFFFF" alt="REST APIs"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" alt="SQLite"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>Data &amp; Automation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=FFD43B" alt="BeautifulSoup"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>Security</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Argon2id-9D4EDD?style=for-the-badge&logo=keepassxc&logoColor=FFFFFF" alt="Argon2id"/>
+      <img src="https://img.shields.io/badge/TOTP%20MFA-06D6A0?style=for-the-badge&logo=authy&logoColor=FFFFFF" alt="TOTP MFA"/>
+      <img src="https://img.shields.io/badge/CSRF%20%7C%20CSP%20%7C%20HSTS-D52B1E?style=for-the-badge&logo=owasp&logoColor=FFFFFF" alt="CSRF | CSP | HSTS"/>
+      <img src="https://img.shields.io/badge/Cloudflare%20Turnstile-F38020?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF" alt="Cloudflare Turnstile"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>Tools &amp; Platforms</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF" alt="Docker"/>
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" alt="VS Code"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel"/>
+      <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=FFFFFF" alt="Railway"/>
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000" alt="Render"/>
+      <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=000000" alt="Neon"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>AI-Assisted Dev</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude%20Code-FF6B00?style=for-the-badge&logo=anthropic&logoColor=FFFFFF" alt="Claude Code"/>
+      <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNC41IDYuNSAxMSAxMmwtNi41IDUuNU0xMyAxOGg3Ii8%2BPC9zdmc%2B" alt="Codex"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech | Link |
-|---|---|---|---|
-| **Portfolio** | Bilingual (PT/EN) full-stack portfolio and quote-request site with a custom-built, authenticated admin panel — no frameworks on the frontend, no shortcuts on security. | FastAPI · Vanilla JS · Vercel · Railway | [Live](https://portfoliofelipe2008pg1.vercel.app/) · [Repo](https://github.com/felipe2008pg1/portfolio) |
-| **Barbershop V1.1** | Full remaster of a barbershop scheduling system: role-based access for admins, barbers, and clients, conflict-free appointment booking, rescheduling/cancellation flow, and bilingual (EN/PT-BR) UI — rebuilt from local JSON storage onto PostgreSQL. | Python · FastAPI · PostgreSQL | [Repo](https://github.com/felipe2008pg1/Barbershop-V.1.1) |
-| **FinanceAPI** | REST API for personal finance management — JWT-based auth with refresh tokens, full CRUD for transactions and categories, spending reports by category, and Swagger-documented endpoints. | FastAPI · MySQL · SQLAlchemy · Docker | [Repo](https://github.com/felipe2008pg1/FinanceAPI) |
-| **TaskFlow** | Full-stack task management system with user accounts, custom categories, status tracking, and per-user statistics through a documented REST API. | FastAPI · MySQL · JavaScript | [Repo](https://github.com/felipe2008pg1/Task-flow) |
-| **Smart Urban Complaint System** | Web platform letting citizens report urban issues (potholes, floods, lighting, leaks) with photos and map-based location tracking, aimed at improving visibility and follow-up on local problems. | Python · FastAPI · SQLite · Leaflet.js | [Repo](https://github.com/felipe2008pg1/Urban_Complaint_Systems) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧭 Portfolio</h3>
+      <p>Bilingual (PT/EN) full-stack portfolio and quote-request site with a custom-built, MFA-protected admin panel — no frameworks on the frontend, no shortcuts on security.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=FFFFFF" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/Vanilla%20JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="Vanilla JS"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel"/>
+        <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=FFFFFF" alt="Railway"/>
+      </p>
+      <a href="https://portfoliofelipe2008pg1.vercel.app/"><b>▶ Live</b></a> &nbsp;·&nbsp; <a href="https://github.com/felipe2008pg1/portfolio"><b>📂 Repo</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✂️ Barbershop V1.1</h3>
+      <p>Full remaster of a barbershop scheduling system: role-based access for admins, barbers, and clients, conflict-free booking, rescheduling/cancellation flow, and a bilingual (EN/PT-BR) UI — rebuilt from local JSON storage onto PostgreSQL.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=FFFFFF" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" alt="PostgreSQL"/>
+      </p>
+      <a href="https://github.com/felipe2008pg1/Barbershop-V.1.1"><b>📂 Repo</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💰 FinanceAPI</h3>
+      <p>REST API for personal finance management — JWT auth with refresh tokens, full CRUD for transactions and categories, spending reports by category, and Swagger-documented endpoints.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=FFFFFF" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=FFFFFF" alt="SQLAlchemy"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF" alt="Docker"/>
+      </p>
+      <a href="https://github.com/felipe2008pg1/FinanceAPI"><b>📂 Repo</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✅ TaskFlow</h3>
+      <p>Full-stack task management system with user accounts, custom categories, status tracking, and per-user statistics through a documented REST API.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=FFFFFF" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>
+      </p>
+      <a href="https://github.com/felipe2008pg1/Task-flow"><b>📂 Repo</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🏙️ Smart Urban Complaint System</h3>
+      <p>Web platform letting citizens report urban issues (potholes, floods, lighting, leaks) with photos and map-based location tracking, aimed at improving visibility and follow-up on local problems.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=FFFFFF" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" alt="SQLite"/>
+        <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=FFFFFF" alt="Leaflet.js"/>
+      </p>
+      <a href="https://github.com/felipe2008pg1/Urban_Complaint_Systems"><b>📂 Repo</b></a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -133,7 +226,7 @@
 
 ## 💼 Background
 
-Administrative and Accounting Assistant (IFRS Certified) — a background that gives me a practical, business-oriented perspective when designing software.
+Administrative and Accounting Assistant (**IFRS Certified**) — a background that gives me a practical, business-oriented perspective when designing software.
 
 <br/>
 
@@ -142,13 +235,9 @@ Administrative and Accounting Assistant (IFRS Certified) — a background that g
 </p>
 
 <p align="center">
-  <a href="https://github.com/felipe2008pg1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile"/>
-  </a>
-  <a href="https://www.linkedin.com/in/felipe-de-la-vega-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn profile"/>
-  </a>
-  <a href="https://portfoliofelipe2008pg1.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1B2A?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAD4klEQVR4nO3dO27UUACFYU%2BEQoFQ2EZaOtpZXVY1LR1tOrIEiBCiQQoFSpTHvGzf62v7fN8CJpZyfl%2FPJIRNNzNX19uH1tdAPfe3u03ra3iu6cUYO13XNorJv7DRc8zUMUz2xQyfPqYKofoXMXzGqB1CtRc3fEqqFULxFzV8aiodwkXJFzN%2Baiu9sSI1GT4tlDgNRp8Axk8rJbY3KgDjp7WxGxwcgPEzF2O2OCgA42duhm6ydwDGz1wN2WavAIyfueu70bMDMH6Wos9WzwrA%2BFmaczd7MgDjZ6nO2W7RX4WApTkagLs%2FS3dqwwcDMH7W4tiWPQIRbW8A7v6szaFNOwGI9iYAd3%2FWat%2B2nQBEexGAuz9r93rjTgCiPQXg7s%2BK51t3AhBNAES76DqPP%2BR53LwTgGgCIJoAiCYAom28ASaZE4BoAiCaAIgmAKIJgGgCIJoAiPau9QXM1c%2Ftr9aXMImbu8vu5u5964toxglANAEQTQBEEwDRBEA0ARBNAEQTANEEQDQBEE0ARBMA0QRANAEQza9DV%2FT564fu%2Bx%2F3mDnz3SGaAIgmAKIJgGgCIJoAiCYAogmAaAIgmgCIJgCiCYBoAiCaAIgmAKIJgGgCIJoAiPau9QXM1c%2Ftr9aXMImbu8vu5u5964toxglANAEQTQBEEwDRBEA0ARBNAEQTANEEQDQBEE0ARBMA0QRANAEQza9DV%2FT564fu%2Bx%2F3mDnz3SGaAIgmAKIJgGgCIJoAiCYAogmAaAIgmgCIJgCiCYBoAiCaAIgmAKIJgGgCIJoAiPau9QXM1c%2Ftr9aXMImbu8vu5u5964toxglANAEQTQBEEwDRBEA0ARBNAEQTANEEQDQBEE0ARBMA0QRANAEQza9DV%2FT564fu%2Bx%2F3mDnz3SGaAIgmAKIJgGgCIJoAiCYAogmAaAIgmgCIJgCiCYBoAiCaAIgmAKIJgGgCIJoAiPau9QXM1c%2Ftr9aXMImbu8vu5u5964toxglANAEQTQBEEwDRBEA0ARBNAEQTANEEQDQBEE0ARBMA0QRANAEQza9DV%2FT564fu%2Bx%2F3mDnz3SGaAIgmAKIJgGgCIJoAiCYAogmAaAIgmgCIJgCiCYBoAiCaAIgmAKIJgGgCIJoAiPau9QXM1c%2Ftr9aXMImbu8vu5u5964toxglANAEQTQBEEwDRBEA0ARBNAEQTANEEQDQBEE0ARBMA0QRANAEQza9DV%2FT564fu%2Bx%2F3mDnz3SGaAIgmAKIJgGgCIJoAiCYAogmAaAIgmgCIJgCiCYBoAiCaAIgmAKIJgGgCIJoAiPau9QXM1c%2Ftr9aXMImbu8vu5u5964toxglANAEQTQBEEwDRBEA0ARBNAEQTANEEQDQBEE0ARBMA0QRANAEQza9DV%2FT564fu%2Bx%2F3mDnz3SGaAIgmAKIJgGgCIJoAiCYAogmAaAIgmgCIJgCiCYBoAiCaAIgmAKIJgGgCIJoAiA%3D%3D" alt="Portfolio link"/>
-  </a>
+  <a href="https://github.com/felipe2008pg1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile"/></a>
+  <a href="https://www.linkedin.com/in/felipe-de-la-vega-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAweiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn profile"/></a>
+  <a href="https://portfoliofelipe2008pg1.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1B2A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOS41Ii8%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iMTIiIHJ4PSI0LjIiIHJ5PSI5LjUiLz48cGF0aCBkPSJNMi41IDEyaDE5TTQgN2gxNk00IDE3aDE2Ii8%2BPC9zdmc%2B" alt="Portfolio link"/></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D52B1E,100:0033A0&height=120&section=footer" width="100%" alt=""/>
